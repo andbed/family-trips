@@ -22,3 +22,5 @@ Different projects in this area
 1. Trip planner http://www.triporama.com/, not much about history, recommendations, wish-lists
 2. Public list of trips http://www.fajny-weekend.pl/content/section/4/35/, outdated, no possibility to collaborate
 3. Mix of everything and therefore nothing: http://weekends.pl/glowna.aspx
+
+test string
